@@ -1,4 +1,8 @@
-# jk-hetzner-cloud-init
+# DEPRECATED
+
+I now use nixos-anywhere to install Hetzner Cloud hosts. See: https://github.com/kuetemeier/jkr-config
+
+# jkr-hetzner-cloud-init
 Initial Cloud configuration and init files for new Hetzner Linux Cloud Nodes
 
 ```[shell]
